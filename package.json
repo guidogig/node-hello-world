@@ -1,0 +1,12 @@
+{
+  "name": "node-hello-world",
+  "version": "0.1.0",
+  "description": "node-hello-world",
+  "license": "ISC",
+  "author": "GG",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  }
+}
